@@ -20,6 +20,6 @@
   <a href = "victorgamesbr091@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/Vitãozin#8575" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     
-     ![Snake animation](https://github.com/VictorSantos18/VictorSantos18/blob/output/github-contribution-grid-snake.svg)
+      ![Snake animation](https://github.com/VictorSantos18/VictorSantos18/blob/output/github-contribution-grid-snake.svg)
       
   </div>
