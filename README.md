@@ -2,10 +2,14 @@
 
      Me = {
             Skills: "Front-end Developer",
-        Main_Langs: "React w/ Typescript/Javascript and PHP",
-      Casual_Langs: "PHP", 
-              Tech: "Git",
-                SO: "Windows",
+            Main_Langs: {[
+                  React.js/ts,
+                  Next.js,
+                  Node.js
+                  ]},
+            Casual_Langs: "PHP", 
+            Tech: "Git",
+            SO: "Windows",
                 
     };
 
