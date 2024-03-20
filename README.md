@@ -4,7 +4,7 @@
             Skills: "Front-end Developer",
             Main_Langs: {[
                   React.js/ts,
-                  Next.js,
+                  React Native/Expo ,
                   Node.js
                   ]},
             Casual_Langs: "PHP", 
